@@ -1,2 +1,2 @@
 # demo_js
-quiz
+quiz app
